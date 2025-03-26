@@ -1,0 +1,1 @@
+Insurgents, revolutionaries, or freedom fighters seeking to overthrow an oppressive regime or enforce radical change.

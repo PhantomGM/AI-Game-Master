@@ -1,0 +1,1 @@
+Aristocratic families and ruling elites who control land, politics, and military power.

@@ -1,0 +1,1 @@
+Key figures who play a significant role in the world, such as rulers, faction leaders, or legendary heroes and villains. These characters drive major storylines and influence the game world in meaningful ways.

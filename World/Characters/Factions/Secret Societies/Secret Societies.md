@@ -1,0 +1,1 @@
+Hidden cabals influencing politics, magic, or history from the shadows, such as the Illuminati or Freemason-style organizations.

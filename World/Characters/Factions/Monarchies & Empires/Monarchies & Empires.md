@@ -1,0 +1,1 @@
+Large-scale ruling factions encompassing vast lands, sometimes competing with local nobility or governing through vassal states.

@@ -1,0 +1,1 @@
+Powerful economic groups controlling commerce, resources, and markets across regions.

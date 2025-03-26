@@ -1,0 +1,1 @@
+Professional warriors for hire, working for the highest bidder or bound by a code of conduct.

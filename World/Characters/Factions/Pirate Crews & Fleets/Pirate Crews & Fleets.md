@@ -1,0 +1,1 @@
+Seafaring or skyfaring factions living outside the law, from individual pirate bands to sprawling pirate nations.

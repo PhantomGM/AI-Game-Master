@@ -1,0 +1,1 @@
+Elite warrior factions, such as knightly orders, royal guards, or standing armies loyal to a kingdom or ideology.

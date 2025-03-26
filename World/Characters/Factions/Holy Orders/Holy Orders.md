@@ -1,0 +1,1 @@
+Religious groups dedicated to a god, pantheon, or sacred cause, often including militant orders, inquisitors, or monastic sects.

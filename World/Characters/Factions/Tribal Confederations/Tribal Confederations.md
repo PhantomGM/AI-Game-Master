@@ -1,0 +1,1 @@
+Loose alliances of nomadic clans or indigenous groups banding together for survival and influence.

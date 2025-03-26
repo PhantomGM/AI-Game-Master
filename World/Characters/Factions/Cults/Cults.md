@@ -1,0 +1,1 @@
+Secretive or zealous groups devoted to a deity, ideology, or eldritch entity. Often operate in the shadows or oppose mainstream religious orders.

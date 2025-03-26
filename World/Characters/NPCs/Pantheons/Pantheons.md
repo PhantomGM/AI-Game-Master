@@ -1,0 +1,1 @@
+A collection of deities, divine entities, or spiritual forces that shape religion, magic, and culture. Gods may be active in the world or distant figures worshiped through rituals, granting power to their followers.

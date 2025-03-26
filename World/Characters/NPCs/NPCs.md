@@ -1,0 +1,1 @@
+Non-Player Characters (NPCs) populate the world, serving as quest givers, allies, enemies, and background figures that shape the story and setting. They range from legendary figures to common townsfolk.

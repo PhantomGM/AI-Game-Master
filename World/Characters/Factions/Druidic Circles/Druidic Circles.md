@@ -1,0 +1,1 @@
+Nature-focused factions that protect sacred lands, preserve balance, or serve as intermediaries between civilizations and the wild.

@@ -1,0 +1,1 @@
+Academies, arcane orders, or secret societies dedicated to knowledge, alchemy, or forbidden lore.
