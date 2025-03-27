@@ -1,0 +1,27 @@
+## Shared Tools
+
+- **Probability and Dice Calculator:** Calculates probabilities and outcomes for dice rolls or other random events.
+- **Character Sheet Analyzer:** Analyzes character sheets to extract information about character stats, abilities, and resources.
+- **Historical Geography Tracker:** Tracks geographical features and changes to them throughout history.
+- **Climate and Weather Simulator:** Simulates climate and weather patterns for different regions and time periods.
+- **NPC Resource Tracker:** Tracks resources (e.g., health, mana, items) for non-player characters.
+- **Relationship Evolution Simulator:** Models and simulates the evolution of relationships between characters and factions.
+- **Historical Knowledge Database:** Stores and retrieves historical information about the game world.
+- **Temporal Memory Indexer:** Maintains a chronological index of significant events and decisions.
+- **Continuity Checker:** Checks for inconsistencies and contradictions in game data and narratives.
+- **Branching Consequence Tracker:** Tracks the consequences of player choices and their impact on the story and world.
+- **Dynamic Initiative Tracker:** Manages initiative order in combat or other turn-based situations.
+- **Encounter Balance Calculator:** Calculates the difficulty and balance of combat encounters.
+- **Skill Challenge Balancer:** Balances the difficulty of skill-based challenges and tests.
+- **Adaptive Difficulty Adjuster:** Adjusts the difficulty of challenges dynamically based on player progress or performance.
+- **Character Arc Tracker:** Tracks the progress and development of individual character arcs.
+- **Consequence Projection System:** Projects the potential consequences of character choices and actions.
+- **Engagement Pattern Recognition System:** Recognizes patterns in player engagement and adjusts content accordingly.
+- **Spotlight Distribution Manager:** Manages the distribution of attention and focus among players.
+- **Lore Consistency Checker:** Checks for inconsistencies in established lore and world facts.
+- **Knowledge Classification System:** Classifies and organizes information and knowledge about the game world.
+- **Historical Economic Development Tracker:** Tracks the historical development of economic systems and trade.
+- **Magical/Technological Ecosystem Impact Calculator:** Calculates the impact of magic or technology on the environment and society.
+- **Magical/Technological Knowledge Evolution Tracker:** Tracks the historical development and evolution of magical or technological knowledge.
+- **Cultural Practice Database:** Stores information about the customs, traditions, and practices of different cultures.
+- **Cultural Evolution Simulator:** Simulates the evolution and changes in cultures over time.

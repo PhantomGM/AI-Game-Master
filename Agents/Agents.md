@@ -43,3 +43,28 @@ The AI Agents use for this project are listed here, as well as the Tools that ar
 	* [[Idealist Visionary]]
 	* [[Pragmatic Realist]]
 ## [[Shared Tools]]
+* Probability and Dice Calculator
+* Character Sheet Analyzer
+* Historical Geography Tracker
+* Climate and Weather Simulator
+* NPC Resource Tracker
+* Relationship Evolution Simulator
+* Historical Knowledge Database
+* Temporal Memory Indexer
+* Continuity Checker
+* Branching Consequence Tracker
+* Dynamic Initiative Tracker
+* Encounter Balance Calculator
+* Skill Challenge Balancer
+* Adaptive Difficulty Adjuster
+* Character Arc Tracker
+* Consequence Projection System
+* Engagement Pattern Recognition System
+* Spotlight Distribution Manager
+* Lore Consistency Checker
+* Knowledge Classification System
+* Historical Economic Development Tracker
+* Magical/Technological Ecosystem Impact Calculator
+* Magical/Technological Knowledge Evolution Tracker
+* Cultural Practice Database
+* Cultural Evolution Simulator
